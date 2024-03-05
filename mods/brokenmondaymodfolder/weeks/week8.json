@@ -1,0 +1,32 @@
+{
+	"storyName": "cloud lady vs the cat",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"cotton-candy",
+			"monday",
+			[
+				250,
+				66,
+				139
+			]
+		]
+	],
+	"weekCharacters": [
+		"Monday",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week8"
+}
